@@ -2,5 +2,5 @@ projectKey=SpringProject
 serverUrl=http://localhost:9000
 serverVersion=6.5.0.27846
 dashboardUrl=http://localhost:9000/dashboard/index/SpringProject
-ceTaskId=AWfu7GfQ7EnFmswpLrmA
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWfu7GfQ7EnFmswpLrmA
+ceTaskId=AWfzH_FIMJFH5jEpf_Cw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWfzH_FIMJFH5jEpf_Cw
